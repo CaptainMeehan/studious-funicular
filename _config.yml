@@ -1,5 +1,5 @@
 baseurl: "/studious-funicular"
-theme: minima
+theme: jekyll-theme-midnight
 title: Game Programming
 author: Fredrik Andersson
 description: My github pages for work!
