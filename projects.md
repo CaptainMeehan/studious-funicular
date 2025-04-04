@@ -11,6 +11,7 @@ Here are some of my game projects and game engine experiments.
 <!-- Project 1 -->
 <div class="project">
   <h3>Modular UI</h3>
+  <p><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a></p>
 <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu" />
   <p>  For some reason UI was one of the things people didn't seem all too eager to take so I wanted to create a modular UI that is easy to implement in projects. 
        <br/>The UI itself is easy to use for a programmer but I also wanted it to be possible to export UI from a UI editor to a JSON file using nlohmann. And then be able
@@ -29,7 +30,7 @@ Here are some of my game projects and game engine experiments.
   <img src="{{ site.baseurl }}/assets/images/project5.png" alt="Project 5" width="300" />
   <h3>Project 5 Title</h3>
   <p>This one has a GitHub repo too!</p>
-  <p><a href="https://github.com/yourusername/project5" target="_blank">View on GitHub</a></p>
+  <p><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a></p>
 </div>
 
 <!-- Project 6 with GitHub -->
