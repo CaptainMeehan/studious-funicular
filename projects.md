@@ -10,7 +10,7 @@ Here are some of my game projects and game engine experiments.
 
 <!-- Project 1 -->
 <div class="project">
-  <img src="{{ site.baseurl }}/assets/images/Menu.gif" alt="Project 1" width="300" />
+  <img src="{{ site.baseurl }}/assets/images/menu.gif" alt="Project 1" width="300" />
   <h3>Modular UI</h3>
   <p>  For some reason UI was one of the things people didn't seem all too eager to take so I wanted to create a modular UI that is easy to implement in projects. 
        The UI itself is easy to use for a programmer but I also wanted it to be possible to export UI from a UI editor to a JSON file using nlohmann. And then be able
