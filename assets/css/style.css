@@ -1,0 +1,18 @@
+.project-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project {
+  border: 1px solid #444;
+  padding: 15px;
+  width: 320px;
+  background-color: #1e1e1e;
+}
+
+.project img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 10px;
+}
