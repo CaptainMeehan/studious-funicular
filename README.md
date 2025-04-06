@@ -1,7 +1,7 @@
 <header>
   
 # Welcome!
-I am a student at TGA and this is the work I have done so far.<br/>
+I am a student at TGA and this is the work I have done so far.<br/><br/>
 _I created the homepage in this repository myself. It has a Jekyll theme at the base but I replaced almost everything using CSS for the look and layout!_
 <br/><br/>_/Fredrik_<br/>
 
