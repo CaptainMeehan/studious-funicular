@@ -23,7 +23,7 @@ Here are some of my game projects and game engine experiments.
     <p>A game engine experiment with water reflection and procedural generation using dx11 and some of my base math classes.</p>
   </div>
 
-  <!-- Project 2 -->
+  <!-- Project 3 -->
   <div class="project-card" onclick="openModal('modal3')">
     <img src="{{ '/assets/images/tankgame.png' | relative_url }}" alt="menu">
     <h3>Networked Tank Game</h3>
