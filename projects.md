@@ -43,6 +43,8 @@ Here are some of my game projects and game engine experiments.
       <li><strong>Rendering System:</strong> Elements are added to a prioritized render list to maintain proper visual layering and efficient rendering.</li>
       <li><strong>Responsive Design:</strong> Automatically scales UI elements to screen resolution using a layout update function for different devices and aspect ratios.</li>
     </ul>
+    <img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="menu">
+  <figcaption>UI adapted to our game Spite: The Infernal Oath</figcaption>
     <h3>🌱 Future Improvements</h3>
     <ul>
       <li><strong>Visual UI Editor Tool:</strong> Drag-and-drop editor for building UI layouts visually.</li>
