@@ -31,7 +31,7 @@ Here are some of my game projects and game engine experiments.
 <div class="modal" id="modal1">
   <div class="modal-content">
     <span class="close-button" onclick="closeModal('modal1')">&times;</span>
-    <h2>Modular UI</h2>
+    <h2>Modular UI</h2><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
   <figcaption>UI adapted to our game A.I Quit</figcaption>
     <p>This project focuses on building a modular UI system that's easy to implement and export from an editor as JSON. It uses nlohmann to load these files and create the entire UI structure at runtime.</p>
@@ -51,7 +51,6 @@ Here are some of my game projects and game engine experiments.
       <li><strong>Live Preview:</strong> Real-time preview of changes inside the editor.</li>
       <li><strong>Dynamic Text:</strong> Support for localization, font scaling, and multi-language UI.</li>
     </ul>
-    <a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
   </div>
 </div>
 
