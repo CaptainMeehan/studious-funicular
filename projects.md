@@ -70,6 +70,7 @@ Here are some of my game projects and game engine experiments.
     <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
   <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
+<p>For this project I worked with procedural generation, Directx11, reflection and raycasting and in general just game related math needed for engines.</p>
   </div>
 </div>
 
