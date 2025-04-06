@@ -44,13 +44,15 @@ Here are some of my game projects and game engine experiments.
       <li><strong>Responsive Design:</strong> Automatically scales UI elements to screen resolution using a layout update function for different devices and aspect ratios.</li>
     </ul>
     <img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="menu">
-  <figcaption><i>UI adapted to our game Spite: The Infernal Oath</i>i></figcaption>
+  <figcaption><i>UI adapted to our game Spite: The Infernal Oath</i></figcaption>
     <h3>🌱 Future Improvements</h3>
     <ul>
       <li><strong>Visual UI Editor Tool:</strong> Drag-and-drop editor for building UI layouts visually.</li>
       <li><strong>Live Preview:</strong> Real-time preview of changes inside the editor.</li>
       <li><strong>Dynamic Text:</strong> Support for localization, font scaling, and multi-language UI.</li>
     </ul>
+    <img src="{{ '/assets/images/intro.gif' | relative_url }}" alt="intro">
+  <figcaption><i>Intro adapted to our game A.I Quit using Modular UI</i></figcaption>
   </div>
 </div>
 
