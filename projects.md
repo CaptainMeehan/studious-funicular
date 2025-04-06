@@ -86,11 +86,10 @@ Here are some of my game projects and game engine experiments.
 <p>I am currently developing it.</p>
 I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/" target="_blank">ASIO</a> for networking as it is cross platform.
 <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/" target="_blank">Jolt</a> for Physics.
-<a href="https://capnproto.org/install.html" target="_blank">capnproto</a> for Serialization.
-<a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">ASIO</a> my own graphics engine.
-<a href="https://download.autodesk.com/us/fbx/20112/fbx_sdk_help/index.html?url=WS1a9193826455f5ff-150b16da11960d83164-6bf0.htm,topicNumber=d0e1518" target="_blank">ASIO</a> for model loading (later) with maybe unity or UE for model export to JSON using nlohmann.
-<a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/" target="_blank">ASIO</a> for Physics.
-
+<a href="https://capnproto.org/install.html" target="_blank">Cap'n Proto</a> for Serialization.
+<a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">My Engine</a> my own graphics engine. More control
+<a href="https://download.autodesk.com/us/fbx/20112/fbx_sdk_help/index.html?url=WS1a9193826455f5ff-150b16da11960d83164-6bf0.htm,topicNumber=d0e1518" target="_blank">FBXSDK</a> for model loading (later) with maybe unity or UE for model export to JSON using nlohmann.
+    
 <h3>🛠️ Development Process</h3>
 
 <div class="process-section">
