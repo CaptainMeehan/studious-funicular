@@ -19,7 +19,7 @@ Any internship offers can be made on May 5th, at the earliest.”_
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+[Projects:](https://captainmeehan.github.io/studious-funicular/projects.html)  &bull; [Homepage:](https://captainmeehan.github.io/studious-funicular/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
