@@ -32,11 +32,7 @@ Here are some of my game projects and game engine experiments.
     <span class="close-button" onclick="closeModal('modal1')">&times;</span>
     <h2>Modular UI</h2>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
-    
-    <p>
-      This project focuses on building a modular UI system that's easy to implement and export from an editor as JSON. It uses <code>nlohmann::json</code> to load layouts at runtime and build the UI structure dynamically.
-    </p>
-
+    <p>This project focuses on building a modular UI system that's easy to implement and export from an editor as JSON. It uses nlohmann to load these files and create the entire UI structure at runtime.</p>
     <h3>🔧 Key Features</h3>
     <ul>
       <li><strong>State-Based UI Flow:</strong> Manages UI menus using a state stack (e.g., Main Menu, Settings, Pause), with <code>PushState</code>, <code>PopState</code>, and <code>PushStateAndPop</code> for seamless transitions.</li>
@@ -45,15 +41,13 @@ Here are some of my game projects and game engine experiments.
       <li><strong>Rendering System:</strong> Elements are added to a prioritized render list to maintain proper visual layering and efficient rendering.</li>
       <li><strong>Responsive Design:</strong> Automatically scales UI elements to screen resolution using a layout update function for different devices and aspect ratios.</li>
     </ul>
-
     <h3>🌱 Future Improvements</h3>
     <ul>
       <li><strong>Visual UI Editor Tool:</strong> Drag-and-drop editor for building UI layouts visually.</li>
       <li><strong>Live Preview:</strong> Real-time preview of changes inside the editor.</li>
       <li><strong>Dynamic Text:</strong> Support for localization, font scaling, and multi-language UI.</li>
     </ul>
-
-    <p><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a></p>
+    <a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
   </div>
 </div>
 
