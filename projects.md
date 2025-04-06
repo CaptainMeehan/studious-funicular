@@ -63,24 +63,86 @@ Here are some of my game projects and game engine experiments.
     <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
   <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
-    <p>This project focuses on building a modular UI system that's easy to implement in a new project. The end goal is to also implement and export from an editor as JSON. It is going to use nlohmann to load these files and create the entire UI structure at runtime.</p>
-    <h3>🔧 Key Features Already Implemented</h3>
-    <ul>
-      <li><strong>State-Based UI Flow:</strong> Manages UI menus using a state stack (e.g., Main Menu, Settings, Pause), with <code>PushState</code>, <code>PopState</code>, and <code>PushStateAndPop</code> for seamless transitions.</li>
-      <li><strong>Modular Components:</strong> Easily build interfaces with reusable elements like buttons, sliders, containers, and text. Each is a separate class with helper functions for setup.</li>
-      <li><strong>Interactive & Event-Driven:</strong> Supports event callbacks for hover, click, and drag using <code>std::function</code>. Input is handled centrally in the UIManager.</li>
-      <li><strong>Rendering System:</strong> Elements are added to a prioritized render list to maintain proper visual layering and efficient rendering.</li>
-      <li><strong>Responsive Design:</strong> Automatically scales UI elements to screen resolution using a layout update function for different devices and aspect ratios.</li>
-    </ul>
-    <img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="menu">
-  <figcaption><i>UI adapted to our game Spite: The Infernal Oath</i></figcaption>
-    <h3>🌱 Future Improvements</h3>
-    <ul>
-      <li><strong>Visual UI Editor Tool:</strong> Drag-and-drop editor for building UI layouts visually.</li>
-      <li><strong>Live Preview:</strong> Real-time preview of changes inside the editor.</li>
-      <li><strong>Dynamic Text:</strong> Support for localization, font scaling, and multi-language UI.</li>
-    </ul>
-    <img src="{{ '/assets/images/intro.gif' | relative_url }}" alt="intro">
-  <figcaption><i>Intro adapted to our game A.I Quit using Modular UI</i></figcaption>
+  <h2>Networked Tank Game</h2>
+<p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
+<p>I am currently developing it. </br>I am using [ASIO](https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/) for networking as it is cross platform.</br>
+Jolt for Physics.</br>
+[Cap'n Proto](https://capnproto.org/install.html) for serialization.</br>
+[My own engine](https://github.com/CaptainMeehan/dx11enginebase/) for graphics.</br>
+[FBXSDK](https://download.autodesk.com/us/fbx/20112/fbx_sdk_help/index.html?url=WS1a9193826455f5ff-150b16da11960d83164-6bf0.htm,topicNumber=d0e1518) for model loading (later) with maybe unity or UE for model export to JSON using nlohmann.</br>
+[FMOD](https://www.fmod.com/) for sound (later).</br>
+</p>
+
+<h3>🛠️ Development Process</h3>
+
+<div class="process-section">
+  <h4>🔌 Networking Basics</h4>
+  <ul>
+    <li>Configured a simple TCP/UDP server and client setup (authoritative or not).</li>
+    <li>Established basic client-server communication.</li>
+    <li>Implemented a handshake/login system.</li>
+    <li>Decided on message structure and serialization format.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>🎮 Core Gameplay Loop</h4>
+  <ul>
+    <li>Built a game loop to send tank positions to the server.</li>
+    <li>Implemented server-side state management (authoritative/semi-authoritative).</li>
+    <li>Synchronized player movement across clients.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>🕹️ Prediction & Interpolation</h4>
+  <ul>
+    <li>Added basic interpolation for smooth movement.</li>
+    <li>Implemented input prediction on the client.</li>
+    <li>Handled motion delay compensation.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>🔫 Shooting Mechanics</h4>
+  <ul>
+    <li>Sent input events for shooting.</li>
+    <li>Handled projectiles on the server and synced them with clients.</li>
+    <li>Added basic physics (custom or using a physics lib).</li>
+    <li>Implemented collision detection between bullets and tanks.</li>
+    <li>Synchronized point/projectile positions over the network.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>💥 Health & Combat</h4>
+  <ul>
+    <li>Implemented a health/damage system with notifications to clients.</li>
+    <li>Enhanced motion smoothing using interpolation/extrapolation.</li>
+    <li>Improved hit registration using delay compensation techniques.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>🌐 Network Optimization</h4>
+  <ul>
+    <li>Simulated latency and jitter for testing.</li>
+    <li>Optimized packet rate and size.</li>
+    <li>Added tank explosions and death handling.</li>
+    <li>Added respawn logic and a simple win condition.</li>
+  </ul>
+</div>
+
+<div class="process-section">
+  <h4>🧪 UI & Polish</h4>
+  <ul>
+    <li>Created UI elements for health and status.</li>
+    <li>Added sound and visual feedback for combat.</li>
+    <li>Built network debugging tools (packet logs, latency graphs).</li>
+    <li>Playtested to catch bugs and edge cases.</li>
+    <li>Finalized UI polish and game feel.</li>
+    <li>Optimized physics and mesh code for better responsiveness.</li>
+  </ul>
+</div>
   </div>
 </div>
