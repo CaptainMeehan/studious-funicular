@@ -114,51 +114,51 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
 <div class="process-section">
   <h4>🕹️ Prediction & Interpolation</h4>
   <ul>
-    <li>Added basic interpolation for smooth movement.</li>
-    <li>Implemented input prediction on the client.</li>
-    <li>Handled motion delay compensation.</li>
+    <li>Will add basic interpolation for smooth movement.</li>
+    <li>Implement input prediction on the client.</li>
+    <li>Handle motion delay compensation.</li>
   </ul>
 </div>
 
 <div class="process-section">
   <h4>🔫 Shooting Mechanics</h4>
   <ul>
-    <li>Sent input events for shooting.</li>
-    <li>Handled projectiles on the server and synced them with clients.</li>
-    <li>Added basic physics (custom or using a physics lib).</li>
-    <li>Implemented collision detection between bullets and tanks.</li>
-    <li>Synchronized point/projectile positions over the network.</li>
+    <li>Send input events for shooting.</li>
+    <li>Handle projectiles on the server and synced them with clients.</li>
+    <li>Add basic physics (custom or using a physics lib).</li>
+    <li>Implement collision detection between bullets and tanks.</li>
+    <li>Synchronize point/projectile positions over the network.</li>
   </ul>
 </div>
 
 <div class="process-section">
   <h4>💥 Health & Combat</h4>
   <ul>
-    <li>Implemented a health/damage system with notifications to clients.</li>
-    <li>Enhanced motion smoothing using interpolation/extrapolation.</li>
-    <li>Improved hit registration using delay compensation techniques.</li>
+    <li>Implement a health/damage system with notifications to clients.</li>
+    <li>Enhance motion smoothing using interpolation/extrapolation.</li>
+    <li>Improve hit registration using delay compensation techniques.</li>
   </ul>
 </div>
 
 <div class="process-section">
   <h4>🌐 Network Optimization</h4>
   <ul>
-    <li>Simulated latency and jitter for testing.</li>
-    <li>Optimized packet rate and size.</li>
-    <li>Added tank explosions and death handling.</li>
-    <li>Added respawn logic and a simple win condition.</li>
+    <li>Simulate latency and jitter for testing.</li>
+    <li>Optimize packet rate and size.</li>
+    <li>Add tank explosions and death handling.</li>
+    <li>Add respawn logic and a simple win condition.</li>
   </ul>
 </div>
 
 <div class="process-section">
   <h4>🧪 UI & Polish</h4>
   <ul>
-    <li>Created UI elements for health and status.</li>
-    <li>Added sound and visual feedback for combat.</li>
-    <li>Built network debugging tools (packet logs, latency graphs).</li>
-    <li>Playtested to catch bugs and edge cases.</li>
-    <li>Finalized UI polish and game feel.</li>
-    <li>Optimized physics and mesh code for better responsiveness.</li>
+    <li>Create UI elements for health and status.</li>
+    <li>Add sound and visual feedback for combat.</li>
+    <li>Build network debugging tools (packet logs, latency graphs).</li>
+    <li>Playtest to catch bugs and edge cases.</li>
+    <li>Finalize UI polish and game feel.</li>
+    <li>Optimize physics and mesh code for better responsiveness.</li>
   </ul>
 </div>
   </div>
