@@ -30,6 +30,12 @@ Here are some of my game projects and game engine experiments.
     <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
   </div>
 
+  <!-- Project 4 -->
+  <div class="project-card" onclick="openModal('modal4')">
+    <h3>To be added:</h3>
+    <p>I will add some of my school game projects and more snippets from my programming methology soon!</p>
+  </div>
+
 </div>
 
 <!-- Modals -->
@@ -161,5 +167,15 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
     <li>Optimize physics and mesh code for better responsiveness.</li>
   </ul>
 </div>
+
+<!-- Modal 4 -->
+<div class="modal" id="modal1">
+  <div class="modal-content">
+    <span class="close-button" onclick="closeModal('modal1')">&times;</span>
+    <h3>To be added:</h3>
+    <p>I will add some of my school game projects and more snippets from my programming methology soon!</p>
+  </div>
+</div>
+
   </div>
 </div>
