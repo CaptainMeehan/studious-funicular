@@ -1,7 +1,9 @@
 <header>
   
-# My GitHub Pages
-_I created this page mostly using CSS for the look and layout!_
+# Welcome!
+I am a student at TGA and this is the work I have done so far.
+_   /Fredrik_
+_I created the homepage in this repository myself. It has a Jekyll theme at the base but I replaced almost everything using CSS for the look and layout!_
 
 </header>
 
