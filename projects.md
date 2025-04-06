@@ -83,7 +83,8 @@ Here are some of my game projects and game engine experiments.
   <figcaption><i>How my project structure looks right now.</i></figcaption>
   <h2>Networked Tank Game</h2>
 <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
-I am currently developing it. </br>I am using [ASIO](https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/) for networking as it is cross platform.
+I am currently developing it. </br>I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/" target="_blank">ASIO</a> for networking as it is cross platform.
+
 [Jolt](https://github.com/jrouwe/JoltPhysics) for Physics.</br>
 [Cap'n Proto](https://capnproto.org/install.html) for serialization.</br>
 [My own engine](https://github.com/CaptainMeehan/dx11enginebase/) for graphics.</br>
