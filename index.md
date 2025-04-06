@@ -5,6 +5,3 @@ layout: default
 
 # Welcome to My Portfolio  
 Here I will showcase some of my game programming projects.
-
-<div class="home">
-  
