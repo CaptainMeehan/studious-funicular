@@ -18,9 +18,9 @@ Here are some of my game projects and game engine experiments.
 
   <!-- Project 2 -->
   <div class="project-card" onclick="openModal('modal2')">
-    <img src="/assets/images/project2.png" alt="Project 2">
-    <h3>Project 2</h3>
-    <p>A game mechanic experiment.</p>
+    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+    <h3>Game engine base</h3>
+    <p>A game engine experiment with water reflection and procedural generation using dx11 and some of my base math classes.</p>
   </div>
 
 </div>
