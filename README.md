@@ -4,7 +4,7 @@
 I am a student at TGA and this is the work I have done so far.<br/>
 I created the homepage in this repository myself. It has a Jekyll theme at the base but I replaced almost everything using CSS for the look and layout!
 <br/>
-<br/>&emsp;_/&emsp;**Fredrik Andersson**_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<br/>&emsp;_/&emsp;Fredrik Andersson_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://thegameassembly.com"><img src=https://thegameassembly.com/wp-content/uploads/2023/01/tgalogowhite-small.svg alt=tgalogowhite-small width=300 align=right></a>
 </header>
 
