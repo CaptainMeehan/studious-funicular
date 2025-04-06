@@ -11,7 +11,7 @@ Here are some of my game projects and game engine experiments.
   <!-- Project 1 -->
   <div class="project-card" onclick="openModal('modal1')">
     <h2>Modular UI</h2>
-    <p>A modular UI with JSON + editor support.</p>
+    <p>A modular UI that is easy to adapt to a new project</p>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
   <figcaption><i>UI adapted to our game A.I Quit</i></figcaption>
   </div>
@@ -34,8 +34,8 @@ Here are some of my game projects and game engine experiments.
     <h2>Modular UI</h2><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
   <figcaption>UI adapted to our game A.I Quit</figcaption>
-    <p>This project focuses on building a modular UI system that's easy to implement and export from an editor as JSON. It uses nlohmann to load these files and create the entire UI structure at runtime.</p>
-    <h3>🔧 Key Features</h3>
+    <p>This project focuses on building a modular UI system that's easy to implement in a new project. The end goal is to also implement and export from an editor as JSON. It is going to use nlohmann to load these files and create the entire UI structure at runtime.</p>
+    <h3>🔧 Key Features Already Implemented</h3>
     <ul>
       <li><strong>State-Based UI Flow:</strong> Manages UI menus using a state stack (e.g., Main Menu, Settings, Pause), with <code>PushState</code>, <code>PopState</code>, and <code>PushStateAndPop</code> for seamless transitions.</li>
       <li><strong>Modular Components:</strong> Easily build interfaces with reusable elements like buttons, sliders, containers, and text. Each is a separate class with helper functions for setup.</li>
