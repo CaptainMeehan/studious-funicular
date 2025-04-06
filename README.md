@@ -8,13 +8,13 @@ I created the homepage in this repository myself. It has a Jekyll theme at the b
 <a href="https://thegameassembly.com"><img src=https://thegameassembly.com/wp-content/uploads/2023/01/tgalogowhite-small.svg alt=tgalogowhite-small width=300 align=right></a>
 <br/>_/Fredrik Andersson_<br/>
 
+_“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
+Any internship offers can be made on May 5th, at the earliest.”_
+
 </header>
 
 <br/>
 <br/>
-_“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
-Any internship offers can be made on May 5th, at the earliest.”_
-
 <footer>
 
 ---
