@@ -21,6 +21,6 @@ Any internship offers can be made on May 5th, at the earliest.”_
 
 [Projects](https://captainmeehan.github.io/studious-funicular/projects.html)  &bull; [Homepage](https://captainmeehan.github.io/studious-funicular/)
 
-Contact: <a href="https://www.linkedin.com/in/fredrik-anderson-8491a32b5/"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png alt=tgalogowhite-small width=20 ></a> &bull;  &bull; [MIT License](https://gh.io/mit)
+<a href="https://www.linkedin.com/in/fredrik-anderson-8491a32b5/"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png alt=tgalogowhite-small width=20 ></a> &bull;  &bull; [MIT License](https://gh.io/mit)
 
 </footer>
