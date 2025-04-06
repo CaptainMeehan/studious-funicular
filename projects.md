@@ -25,7 +25,7 @@ Here are some of my game projects and game engine experiments.
 
   <!-- Project 2 -->
   <div class="project-card" onclick="openModal('modal3')">
-    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+    <img src="{{ '/assets/images/tankgame.gif' | relative_url }}" alt="menu">
     <h3>Networked Tank Game</h3>
     <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
   </div>
@@ -78,7 +78,7 @@ Here are some of my game projects and game engine experiments.
   <div class="modal-content">
     <span class="close-button" onclick="closeModal('modal3')">&times;</span>
     <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
-    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+    <img src="{{ '/assets/images/tankgame.gif' | relative_url }}" alt="menu">
   <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
   <h2>Networked Tank Game</h2>
 <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
