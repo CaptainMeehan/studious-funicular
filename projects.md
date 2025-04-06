@@ -31,7 +31,7 @@ Here are some of my game projects and game engine experiments.
   <div class="modal-content">
     <span class="close-button" onclick="closeModal('modal1')">&times;</span>
     <h2>Modular UI</h2>
-    <img src="/assets/images/menu.gif" alt="Modular UI">
+    <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
     <p>This project focuses on building a modular UI system that's easy to implement and export from an editor as JSON. It uses nlohmann to load these files and create the entire UI structure at runtime.</p>
     <a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
   </div>
