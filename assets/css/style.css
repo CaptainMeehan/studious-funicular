@@ -8,8 +8,12 @@ body {
 }
 
 .home {
-    background-image: url('{{ "/assets/images/aiquit1.gif" | relative_url }}');
-    background-blend-mode: lighten;
+  background-image: url('/assets/images/aiquit1.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: lighten;
+  min-height: 100vh;
 }
 
 .wrapper {
