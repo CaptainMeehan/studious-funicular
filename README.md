@@ -9,11 +9,6 @@ _I created this page mostly using CSS for the look and layout!_
 
 These pages are a part of my portfolio!
 
-- Projects
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
 _“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
 Any internship offers can be made on May 5th, at the earliest.”_
 
