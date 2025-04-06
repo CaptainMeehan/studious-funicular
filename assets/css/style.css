@@ -7,6 +7,11 @@ body {
   line-height: 1.6;
 }
 
+.home {
+    background-image: url('images/aiquit1.gif');
+    background-blend-mode: lighten;
+}
+
 .wrapper {
   max-width: 1200px;
   margin: 0 auto;
