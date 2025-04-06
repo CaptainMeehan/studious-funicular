@@ -80,7 +80,7 @@ Here are some of my game projects and game engine experiments.
     <span class="close-button" onclick="closeModal('modal3')">&times;</span>
     <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/tankgame.png' | relative_url }}" alt="menu">
-  <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
+  <figcaption><i>How my project structure looks right now.</i></figcaption>
   <h2>Networked Tank Game</h2>
 <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
 <p>I am currently developing it. </br>I am using [ASIO](https://sourceforge.net/projects/asio/files/asio/1.30.2%20%28Stable%29/) for networking as it is cross platform.</br>
