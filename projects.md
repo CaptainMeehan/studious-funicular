@@ -23,6 +23,13 @@ Here are some of my game projects and game engine experiments.
     <p>A game engine experiment with water reflection and procedural generation using dx11 and some of my base math classes.</p>
   </div>
 
+  <!-- Project 2 -->
+  <div class="project-card" onclick="openModal('modal3')">
+    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+    <h3>Networked Tank Game</h3>
+    <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
+  </div>
+
 </div>
 
 <!-- Modals -->
@@ -60,6 +67,16 @@ Here are some of my game projects and game engine experiments.
 <div class="modal" id="modal2">
   <div class="modal-content">
     <span class="close-button" onclick="closeModal('modal2')">&times;</span>
+    <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
+    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+  <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
+  </div>
+</div>
+
+<!-- Modal 3 -->
+<div class="modal" id="modal3">
+  <div class="modal-content">
+    <span class="close-button" onclick="closeModal('modal3')">&times;</span>
     <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
   <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
