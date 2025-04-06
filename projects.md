@@ -33,7 +33,7 @@ Here are some of my game projects and game engine experiments.
     <span class="close-button" onclick="closeModal('modal1')">&times;</span>
     <h2>Modular UI</h2><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
-  <figcaption>UI adapted to our game A.I Quit</figcaption>
+  <figcaption><i>UI adapted to our game A.I Quit</i></figcaption>
     <p>This project focuses on building a modular UI system that's easy to implement in a new project. The end goal is to also implement and export from an editor as JSON. It is going to use nlohmann to load these files and create the entire UI structure at runtime.</p>
     <h3>🔧 Key Features Already Implemented</h3>
     <ul>
@@ -44,7 +44,7 @@ Here are some of my game projects and game engine experiments.
       <li><strong>Responsive Design:</strong> Automatically scales UI elements to screen resolution using a layout update function for different devices and aspect ratios.</li>
     </ul>
     <img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="menu">
-  <figcaption>UI adapted to our game Spite: The Infernal Oath</figcaption>
+  <figcaption><i>UI adapted to our game Spite: The Infernal Oath</i>i></figcaption>
     <h3>🌱 Future Improvements</h3>
     <ul>
       <li><strong>Visual UI Editor Tool:</strong> Drag-and-drop editor for building UI layouts visually.</li>
