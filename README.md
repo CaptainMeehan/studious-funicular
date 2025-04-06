@@ -11,23 +11,10 @@ _I created the homepage in this repository myself. It has a Jekyll theme at the 
 
 <br/>
 <br/>
-<br/>
-<br/>
 _“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
 Any internship offers can be made on May 5th, at the earliest.”_
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
 ---
 
