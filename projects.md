@@ -60,9 +60,9 @@ Here are some of my game projects and game engine experiments.
 <div class="modal" id="modal2">
   <div class="modal-content">
     <span class="close-button" onclick="closeModal('modal2')">&times;</span>
-    <h2>Modular UI</h2><a href="https://github.com/CaptainMeehan/modular-ui" target="_blank">View on GitHub</a>
-    <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
-  <figcaption><i>UI adapted to our game A.I Quit</i></figcaption>
+    <h2>DX11 Engine</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
+    <img src="{{ '/assets/images/meehan.gif' | relative_url }}" alt="menu">
+  <figcaption><i>Flying around with keyboard in engine testing out some reflection algorithms</i></figcaption>
     <p>This project focuses on building a modular UI system that's easy to implement in a new project. The end goal is to also implement and export from an editor as JSON. It is going to use nlohmann to load these files and create the entire UI structure at runtime.</p>
     <h3>🔧 Key Features Already Implemented</h3>
     <ul>
