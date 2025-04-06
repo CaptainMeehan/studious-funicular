@@ -1,6 +1,6 @@
 <header>
   
-# Welcome!
+# Welcome, these are my portfolio pages!
 I am a student at TGA and this is the work I have done so far.<br/>
 I created the homepage in this repository myself. It has a Jekyll theme at the base but I replaced almost everything using CSS for the look and layout!
 <br/>
