@@ -1,8 +1,9 @@
 <header>
   
 # Welcome!
-I am a student at TGA and this is the work I have done so far.<br/><br/>
+I am a student at TGA and this is the work I have done so far.<br/>
 I created the homepage in this repository myself. It has a Jekyll theme at the base but I replaced almost everything using CSS for the look and layout!
+<br/>
 <br/>
 <a href="https://thegameassembly.com"><img src=https://thegameassembly.com/wp-content/uploads/2023/01/tgalogowhite-small.svg alt=tgalogowhite-small width=300 align=right></a>
 <br/>_/Fredrik Andersson_<br/>
