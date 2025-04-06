@@ -9,10 +9,10 @@ _I created the homepage in this repository myself. It has a Jekyll theme at the 
 
 </header>
 
+### Disclaimer
+
 _“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
 Any internship offers can be made on May 5th, at the earliest.”_
-
-### What's next?
 
 - Keep working on your GitHub Pages site... we love seeing what you come up with!
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
