@@ -13,7 +13,7 @@ Here are some of my game projects and game engine experiments.
     <h2>Modular UI</h2>
     <p>A modular UI with JSON + editor support.</p>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
-  <figcaption>_UI adapted to our game A.I Quit_</figcaption>
+  <figcaption><i>UI adapted to our game A.I Quit</i></figcaption>
   </div>
 
   <!-- Project 2 -->
