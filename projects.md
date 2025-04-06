@@ -10,8 +10,8 @@ Here are some of my game projects and game engine experiments.
 
   <!-- Project 1 -->
   <div class="project-card" onclick="openModal('modal1')">
-    <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
   <figcaption>UI adapted to our game A.I Quit</figcaption>
+    <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
     <h3>Modular UI</h3>
     <p>A modular UI with JSON + editor support.</p>
   </div>
