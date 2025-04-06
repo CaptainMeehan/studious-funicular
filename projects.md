@@ -12,8 +12,8 @@ Here are some of my game projects and game engine experiments.
   <div class="project-card" onclick="openModal('modal1')">
     <h2>Modular UI</h2>
     <p>A modular UI with JSON + editor support.</p>
-  <figcaption>UI adapted to our game A.I Quit</figcaption>
     <img src="{{ '/assets/images/menu.gif' | relative_url }}" alt="menu">
+  <figcaption>UI adapted to our game A.I Quit</figcaption>
   </div>
 
   <!-- Project 2 -->
