@@ -7,10 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# My gitHub Pages
+# My GitHub Pages
 
-_These pages are for my portfolio.<br/>
-/ Fredrik Andersson_
+_I created this page mostly using CSS for the look and layout!_
 
 </header>
 
@@ -19,11 +18,12 @@ _These pages are for my portfolio.<br/>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Contents:
 
-_Congratulations friend, you've completed this course!_
+_“I am part of The Game Assembly’s internship program. <br/>As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23rd. <br/>
+Any internship offers can be made on May 5th, at the earliest.”_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://thegameassembly.com/wp-content/uploads/2023/01/tgalogowhite-small.svg alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
 
