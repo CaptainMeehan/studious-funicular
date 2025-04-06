@@ -19,8 +19,8 @@ Any internship offers can be made on May 5th, at the earliest.”_
 
 ---
 
-[Projects:](https://captainmeehan.github.io/studious-funicular/projects.html)  &bull; [Homepage:](https://captainmeehan.github.io/studious-funicular/)
+[Projects](https://captainmeehan.github.io/studious-funicular/projects.html)  &bull; [Homepage](https://captainmeehan.github.io/studious-funicular/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Contact: <a href="https://www.linkedin.com/in/fredrik-anderson-8491a32b5/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4////gOLB44D6nTcsGIo33QHi/zTGd0B2YTiAPpYjHIHNAf/piQk6wGPW8f/rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts/m/SfxBMs5RupswBaACr+P47b/5zlG/5DyzZ/r/+8hNF7vuvP//nn3r0X6JhJ+0ccPrR+/+H7735jw9cf/n5v0D1Nuo5gBxQve06zR0AjoL7b7/+//zjN4bc+ScfaOeA33///k9Yfg4mDw7u/Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII=" alt=tgalogowhite-small width=5 ></a> &bull;  &bull; [MIT License](https://gh.io/mit)
 
 </footer>
