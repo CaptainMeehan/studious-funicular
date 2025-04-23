@@ -30,12 +30,6 @@ Here are some of my game projects and game engine experiments.
     <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
   </div>
 
-  <!-- Project 4 -->
-  <div class="project-card" onclick="openModal('modal4')">
-    <h3>To be added:</h3>
-    <p>I will add some of my school game projects and more snippets from my programming methology soon!</p>
-  </div>
-
 </div>
 
 <!-- Modals -->
