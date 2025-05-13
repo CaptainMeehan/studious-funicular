@@ -14,6 +14,7 @@ title: School Game Projects
   <li><strong>Project 3:</strong> Desolate Soul – A 2D sidescroller. </li>
   <li><strong>Project 4:</strong> Landfisk – Top down puzzle game. </li>
   <li><strong>Project 5:</strong> Game Engine work - Pre work for P6. </li>
+<img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="fk">
   <li><strong>Project 6:</strong> Spite: The Infernal Oath – Top down ARPG. </li>
   <li><strong>Project 7:</strong> A.I Quit – A first person action game. </li>
 <img src="{{ '/assets/images/aiquit1.gif' | relative_url }}" alt="fk">
