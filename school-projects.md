@@ -7,6 +7,7 @@ title: School Game Projects
 
 <p>Here you'll find a showcase of the games I developed during my time at The Game Assembly.</p>
 
+<img src="{{ '/assets/images/bullen1.png' | relative_url }}" alt="fk">
 <ul>
   <li><strong>Project 1:</strong> Finders Keepers – A 3'rd person runner game. </li>    
 <img src="{{ '/assets/images/Finders_Keepers.png' | relative_url }}" alt="fk">
@@ -16,6 +17,7 @@ title: School Game Projects
   <li><strong>Project 5:</strong> Game Engine work - Pre work for P6. </li>
 <img src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="fk">
   <li><strong>Project 6:</strong> Spite: The Infernal Oath – Top down ARPG. </li>
+<img src="{{ '/assets/images/spiteGP.gif' | relative_url }}" alt="fk">
   <li><strong>Project 7:</strong> A.I Quit – A first person action game. </li>
 <img src="{{ '/assets/images/aiquit1.gif' | relative_url }}" alt="fk">
   <li><strong>Project 8:</strong> TBD – Current Project, a mix between Rounds and the "Warlocks" WC3 map. </li>
