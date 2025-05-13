@@ -17,6 +17,7 @@ title: School Game Projects
   <img class="school-projects-img" src="{{ '/assets/images/ratD.webp' | relative_url }}" alt="fk">
 
   <li><strong>Project 3:</strong> Desolate Soul – A 2D sidescroller. </li>
+  <img class="school-projects-img" src="{{ '/assets/images/DesolateSoul.webp' | relative_url }}" alt="fk">
 
   <li><strong>Project 4:</strong> Landfisk – Top down puzzle game. </li>
   <img class="school-projects-img" src="{{ '/assets/images/Fisherman.gif' | relative_url }}" alt="fk">
