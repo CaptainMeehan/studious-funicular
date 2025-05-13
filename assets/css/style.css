@@ -196,3 +196,10 @@ a:hover {
 .close-button:hover {
   color: #fff;
 }
+
+.school-projects-img {
+  width: 80vw;
+  height: auto;
+  display: block;
+  margin: 1rem auto;  
+}
