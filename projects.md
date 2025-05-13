@@ -32,7 +32,7 @@ Here are some of my game projects and game engine experiments.
   
   <!-- Project 4 -->
   <div class="project-card" onclick="openModal('modal4')">
-    <img src="{{ '/assets/images/tankgame.png' | relative_url }}" alt="menu">
+    <img src="{{ '/assets/images/MTSDF.gif' | relative_url }}" alt="menu">
     <h3>MTSDF 3D and 2d Text</h3>
     <p>I implemented MTSDF text using https://github.com/Chlumsky/msdf-atlas-gen for our newest game.</p>
   </div>
