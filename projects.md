@@ -29,7 +29,14 @@ Here are some of my game projects and game engine experiments.
     <h3>Networked Tank Game</h3>
     <p>This project walks through implementing a simple networked multiplayer tank game with features like prediction, interpolation, delay compensation, and network debugging tools.</p>
   </div>
-
+  
+  <!-- Project 4 -->
+  <div class="project-card" onclick="openModal('modal4')">
+    <img src="{{ '/assets/images/tankgame.png' | relative_url }}" alt="menu">
+    <h3>MTSDF 3D and 2d Text</h3>
+    <p>I implemented MTSDF text using https://github.com/Chlumsky/msdf-atlas-gen for our newest game.</p>
+  </div>
+  
 </div>
 
 <!-- Modals -->
@@ -163,11 +170,13 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
 </div>
 
 <!-- Modal 4 -->
-<div class="modal" id="modal1">
+<div class="modal" id="modal2">
   <div class="modal-content">
-    <span class="close-button" onclick="closeModal('modal1')">&times;</span>
-    <h3>To be added:</h3>
-    <p>I will add some of my school game projects and more snippets from my programming methology soon!</p>
+    <span class="close-button" onclick="closeModal('modal2')">&times;</span>
+    <h2>MTSDF Text</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
+    <img src="{{ '/assets/images/MTSDF.gif' | relative_url }}" alt="menu">
+  <figcaption><i>MTSDF text for out newest game in production.</i></figcaption>
+<p>I made multiline 2d and 2d text MTSDF text that can be applied anywhere in the gameworld with seamless scaling.</p>
   </div>
 </div>
 
