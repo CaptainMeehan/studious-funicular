@@ -26,7 +26,7 @@ title: School Game Projects
   <img class="school-projects-img" src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="fk">
 
   <li><strong>Project 6:</strong> Spite: The Infernal Oath – Top down ARPG. </li>
-  <img class="school-projects-img" src="{{ '/assets/images/spiteGP.gif' | relative_url }}" alt="fk">
+  <img class="school-projects-img" src="{{ '/assets/images/SpiteGP.gif' | relative_url }}" alt="fk">
 
   <li><strong>Project 7:</strong> A.I Quit – A first person action game. </li>
   <img class="school-projects-img" src="{{ '/assets/images/aiquit1.gif' | relative_url }}" alt="fk">
