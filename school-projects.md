@@ -3,15 +3,6 @@ layout: default
 title: School Game Projects
 ---
 
-<style>
-  img {
-    width: 80%;
-    height: auto;
-    display: block;
-    margin: 1rem auto; /* Optional: center images with spacing */
-  }
-</style>
-
 <h2>School Game Projects</h2>
 
 <p>Here you'll find a showcase of the games I developed during my time at The Game Assembly.</p>
