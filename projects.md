@@ -170,9 +170,9 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
 </div>
 
 <!-- Modal 4 -->
-<div class="modal" id="modal2">
+<div class="modal" id="modal4">
   <div class="modal-content">
-    <span class="close-button" onclick="closeModal('modal2')">&times;</span>
+    <span class="close-button" onclick="closeModal('modal4')">&times;</span>
     <h2>MTSDF Text</h2><a href="https://github.com/CaptainMeehan/dx11enginebase/" target="_blank">View on GitHub</a>
     <img src="{{ '/assets/images/MTSDF.gif' | relative_url }}" alt="menu">
   <figcaption><i>MTSDF text for out newest game in production.</i></figcaption>
