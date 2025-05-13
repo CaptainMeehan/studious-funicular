@@ -19,6 +19,7 @@ title: School Game Projects
   <li><strong>Project 3:</strong> Desolate Soul – A 2D sidescroller. </li>
 
   <li><strong>Project 4:</strong> Landfisk – Top down puzzle game. </li>
+  <img class="school-projects-img" src="{{ '/assets/images/Fisherman.gif' | relative_url }}" alt="fk">
 
   <li><strong>Project 5:</strong> Game Engine work - Pre work for P6. </li>
   <img class="school-projects-img" src="{{ '/assets/images/spite1.gif' | relative_url }}" alt="fk">
