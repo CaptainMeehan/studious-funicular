@@ -169,6 +169,9 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
   </ul>
 </div>
 
+  </div>
+</div>
+
 <!-- Modal 4 -->
 <div class="modal" id="modal4">
   <div class="modal-content">
@@ -177,8 +180,5 @@ I am using <a href="https://sourceforge.net/projects/asio/files/asio/1.30.2%20%2
     <img src="{{ '/assets/images/MTSDF.gif' | relative_url }}" alt="menu">
   <figcaption><i>MTSDF text for out newest game in production.</i></figcaption>
 <p>I made multiline 2d and 2d text MTSDF text that can be applied anywhere in the gameworld with seamless scaling.</p>
-  </div>
-</div>
-
   </div>
 </div>
